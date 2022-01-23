@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
     introTitle: 'Trang ơi',
-    introDesc: `thực chất tao co điều này muốn nói với mày `,
+    introDesc: `thực chất tao có điều này muốn nói với mày `,
     btnIntro: '^^HiHi^^',
     title: 'tao thích mày 🥰',
-    desc: 'không biết liệu t có thể đứng bên cạnh mày được ko? ',
+    desc: 'không biết liệu t có thể làm ny của mày được ko? ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'cảm ơn mày rất nhiều vì đã lựa chọn t nhé, mày có thể cho t lí do được ko <3',
