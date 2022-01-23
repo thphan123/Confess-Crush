@@ -9,8 +9,8 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'cảm ơn mày rất nhiều vì đã lựa chọn t nhé, mày có thể cho t lí do được ko <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <333',
+    mess: 'tao biết mà 🥰. Yêu mày nhiều nhiều 😘😘',
     messDesc: 'vậy từ này hãy giúp đỡ nhau nhé.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
